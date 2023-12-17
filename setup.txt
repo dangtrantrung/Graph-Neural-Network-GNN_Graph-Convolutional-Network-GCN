@@ -1,0 +1,4 @@
+networkX
+matplotlib
+torch
+torch_geometric
